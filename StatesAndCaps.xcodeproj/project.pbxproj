@@ -14,6 +14,7 @@
 		2E147B301B2678CB0021393D /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2E147B2F1B2678CB0021393D /* Images.xcassets */; };
 		2E147B331B2678CB0021393D /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 2E147B311B2678CB0021393D /* LaunchScreen.xib */; };
 		2E147B3F1B2678CB0021393D /* StatesAndCapsTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2E147B3E1B2678CB0021393D /* StatesAndCapsTests.swift */; };
+		2E147B491B283EDB0021393D /* StatesNCaps.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2E147B481B283EDB0021393D /* StatesNCaps.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -38,6 +39,7 @@
 		2E147B381B2678CB0021393D /* StatesAndCapsTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = StatesAndCapsTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		2E147B3D1B2678CB0021393D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		2E147B3E1B2678CB0021393D /* StatesAndCapsTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StatesAndCapsTests.swift; sourceTree = "<group>"; };
+		2E147B481B283EDB0021393D /* StatesNCaps.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = StatesNCaps.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -82,6 +84,7 @@
 				2E147B251B2678CB0021393D /* AppDelegate.swift */,
 				2E147B2A1B2678CB0021393D /* ViewController.swift */,
 				2E147B2C1B2678CB0021393D /* Main.storyboard */,
+				2E147B481B283EDB0021393D /* StatesNCaps.swift */,
 				2E147B2F1B2678CB0021393D /* Images.xcassets */,
 				2E147B311B2678CB0021393D /* LaunchScreen.xib */,
 				2E147B271B2678CB0021393D /* StatesAndCaps.xcdatamodeld */,
@@ -216,6 +219,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				2E147B2B1B2678CB0021393D /* ViewController.swift in Sources */,
+				2E147B491B283EDB0021393D /* StatesNCaps.swift in Sources */,
 				2E147B291B2678CB0021393D /* StatesAndCaps.xcdatamodeld in Sources */,
 				2E147B261B2678CB0021393D /* AppDelegate.swift in Sources */,
 			);
